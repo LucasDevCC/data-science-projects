@@ -28,4 +28,4 @@ Ele mostra, passo a passo, como limpar, tratar e visualizar dados de avaliaçõe
 # 💡 Como Executar
 1. Clone este repositório:
    ```bash
-   git clone (https://github.com/LucasDevCC/sistema-de-cadastro/edit/main/README.md)
+   git clone (https://github.com/LucasDevCC/data-science-projects/edit/main/README.md)
