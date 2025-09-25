@@ -44,3 +44,6 @@ Execute as células para visualizar os gráficos e análises
 🌟 Resultados
 
 Este projeto evidencia como o uso combinado de gráficos interativos e estáticos pode tornar a análise de dados mais compreensível e engajante, permitindo uma exploração mais profunda dos dados e insights.
+
+
+Obs: o github não processa gráficos interativos, nos arquivos do projeto apenas terá os gráficos estáticos, para acessar os gráficos interativos 
