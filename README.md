@@ -1,31 +1,46 @@
-# 🎬 Análise de Notas de Filmes
+📊 Análise de Dados com Gráficos Interativos e Não Interativos
 
-Este projeto faz parte do meu portfólio em Ciência de Dados.  
-Ele mostra, passo a passo, como limpar, tratar e visualizar dados de avaliações de filmes, criando gráficos claros e informativos.
+Este projeto demonstra um processo completo de análise de dados utilizando Google Colab para criação de gráficos interativos e não interativos. Foram exploradas diversas bibliotecas do ecossistema Python para visualização, incluindo Matplotlib, Seaborn, Pyplot e Plotly.
 
-# 📝 Descrição do Projeto
-- **Objetivo:** Analisar as notas de filmes para identificar padrões, filmes com maiores e menores notas e métricas relevantes.
-- **Etapas realizadas:**
-  - Carregamento dos dados brutos
-  - Limpeza e tratamento de dados inconsistentes
-  - Extração de informações relevantes 
-  - Criação de gráficos e visualizações dos resultados
+🚀 Objetivo
 
-# 📊 Principais Resultados
-- Gráfico comparativo das notas de todos os filmes
-- Destaque para os filmes com **maiores notas** e **menores notas**
-- Insights sobre tendências nos dados de avaliações
+O objetivo deste projeto é apresentar, de forma clara e visual, insights obtidos a partir de um conjunto de dados, usando gráficos que facilitem a interpretação e a tomada de decisões.
 
-# 🚀 Tecnologias Utilizadas
-- Python  
-- Google Colab  
-- Bibliotecas: pandas, matplotlib, seaborn 
+🛠️ Tecnologias Utilizadas
 
-# 📂 Estrutura do Repositório
-- `GraficosNotasFilmes.ipynb`: Notebook com todo o código da análise
-- README.md: Informações sobre o processo do código
+Google Colab – ambiente de desenvolvimento e execução do notebook
 
-# 💡 Como Executar
-1. Clone este repositório:
-   ```bash
-   git clone (https://github.com/LucasDevCC/data-science-projects/edit/main/README.md)
+Matplotlib / Pyplot – gráficos estáticos e customização
+
+Seaborn – gráficos estatísticos e layouts otimizados
+
+Plotly – gráficos interativos para maior exploração dos dados
+
+🔎 Principais Funcionalidades
+
+Limpeza e pré-processamento de dados
+
+Criação de gráficos não interativos (estáticos) com Matplotlib e Seaborn
+
+Criação de gráficos interativos com Plotly
+
+Comparação entre visualizações estáticas e interativas
+
+Insights e interpretações visuais
+
+📈 Exemplos de Visualizações
+
+Histogramas e gráficos de dispersão
+
+Boxplots para análises estatísticas
+
+Gráficos de barras e de linhas 
+
+Dashboard simples com Plotly
+
+
+Execute as células para visualizar os gráficos e análises
+
+🌟 Resultados
+
+Este projeto evidencia como o uso combinado de gráficos interativos e estáticos pode tornar a análise de dados mais compreensível e engajante, permitindo uma exploração mais profunda dos dados e insights.
